@@ -1,0 +1,28 @@
+/* span {
+    cursor: pointer;
+} */
+
+.minus,
+.plus {
+    cursor: pointer;
+    width: 20px;
+    height: 10px;
+    background: #f2f2f2;
+    border-radius: 4px;
+    padding: 8px 5px 8px 5px;
+    border: 1px solid #ddd;
+    vertical-align: middle;
+    text-align: center;
+    /* display: inline-block; */
+}
+
+.cart_quantity_increase {
+    height: 34px;
+    width: 100px;
+    text-align: center;
+    font-size: 26px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-align: middle;
+}

@@ -1,0 +1,18 @@
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-user {
+    background: red;
+    color: black;
+}

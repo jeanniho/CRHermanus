@@ -1,0 +1,27 @@
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    /* background-image: url("static_images/contact_us_bg_image.jpg"); */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.map-container-3 {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-3 iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
